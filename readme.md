@@ -7,7 +7,7 @@ https://github.com/risc5/FuckGFW/releases
 
 ### Subconverter
 
-https://github.com/risc5/FuckGFW/releases
+https://github.com/risc5/FuckGFW/releases/download/v0.1/subconverter.tar.gz
 
 
 ### Mihomo
